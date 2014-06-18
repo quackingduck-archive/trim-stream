@@ -1,0 +1,14 @@
+{
+  "name": "trim-stream",
+  "version": "1.0.0",
+  "description": "Trim leading/trailing bytes from a stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name" : "Myles Byrne",
+    "email" : "myles@myles.id.au"
+  },
+  "license": "MIT"
+}
